@@ -1,0 +1,49 @@
+{
+  "channel_type": "wx",
+  "model": "qwen",
+  "open_ai_api_key": "sess-Eu686bd69mwJfVC1tMpPWDBC2gCYiwzI0ya2othK",
+  "text_to_image": "dall-e-2",
+  "voice_to_text": "openai",
+  "text_to_voice": "openai",
+  "proxy": "",
+  "hot_reload": false,
+  "single_chat_prefix": [
+    "小叶",
+    "@小叶"
+  ],
+  "single_chat_reply_prefix": "亲爱的主人, ",
+  "group_chat_prefix": [
+    "小叶",
+    "@小叶"
+  ],
+  "group_name_white_list": [
+    "🌟我们的秘密基地💞",
+    "暴富",
+    "小蛮妖减肥集中营（仁寿分营）"
+  ],
+  "image_create_prefix": [
+    "画"
+  ],
+  "speech_recognition": true,
+  "group_speech_recognition": false,
+  "voice_reply_voice": false,
+  "conversation_max_tokens": 2500,
+  "expires_in_seconds": 3600,
+  "character_desc": "你是ChatGPT, 一个由OpenAI训练的大型语言模型, 你旨在回答并解决人们的任何问题，并且可以使用多种语言与人交流。",
+  "temperature": 0.7,
+  "subscribe_msg": "感谢您的关注！\n这里是AI智能助手，可以自由对话。\n支持语音对话。\n支持图片输入。\n支持图片输出，画字开头的消息将按要求创作图片。\n支持tool、角色扮演和文字冒险等丰富的插件。\n输入{trigger_prefix}#help 查看详细指令。",
+  "use_linkai": false,
+  "linkai_api_key": "Link_VG1GWGuPwAroHVzGbxrmVrQFfMtboF4Ri4ReAX7ybh",
+  "linkai_app_code": "usDOlBpA",
+  "baidu_wenxin_model": "ERNIE-3.5-8K",
+  "baidu_wenxin_api_key": "gkrwwFvWYbExhHPasviy1syf",
+  "baidu_wenxin_secret_key": "xUa8ZFQLzTfu2wR2orBnFRdL6bMZK8ct",
+  "qwen_access_key_id": "LTAI5tH2LXLtk72hsWd3zi2o",
+  "qwen_access_key_secret": "ZnZvRysRBaX5Z7pHuKxI6nfOBd16lX",
+  "qwen_agent_key": "ba7c8af0ae264485b72afab180daba1a_p_efm",
+  "qwen_app_id": "d8a204de6a41464e8fdcf3106cccf035",
+  "qwen_node_id": "",
+  "xunfei_app_id": "cd73544e",
+  "xunfei_api_key": "3ee24e77b3ee38dd638a96a83660bd16",
+  "xunfei_api_secret": "OTgyODk2ZDhhNzgyMjUxNjIyZmY0ODAx"
+}
